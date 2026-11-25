@@ -1,1 +1,0 @@
-# medova-paseka.test
